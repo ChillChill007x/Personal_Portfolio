@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Suphakit Fanfueai
 
 [![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
 [![Email](https://img.shields.io/badge/Email-Suphakit.f%40kkumail.com-blue)](mailto:Suphakit.f@kkumail.com)
@@ -46,7 +46,7 @@ Computer Science/Engineering student passionate about technology and continuous 
 ## 📫 Contact
 
 - 📧 Email: [Suphakit.f@kkumail.com](mailto:Suphakit.f@kkumail.com)
-- 🔗 GitHub: [@yourusername](https://github.com/yourusername)
+- 🔗 GitHub: [ChillChill007x](https://github.com/ChillChill007x)
 
 ---
 
