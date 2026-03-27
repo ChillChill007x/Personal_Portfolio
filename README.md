@@ -52,7 +52,7 @@ Computer Science/Engineering student passionate about technology and continuous 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ChillChill007x&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?ChillChill007x=ChillChill007x&show_icons=true&theme=default)
 
 ---
 
