@@ -29,6 +29,7 @@ Computer Science/Engineering student passionate about technology and continuous 
 | **LAB 3** | Advanced Networking | [📄 LAB3.pdf](./lab3/LAB3.pdf) |
 | **LAB 4** | Network Security | [📄 Lab 4 Report](./lab4/Lab%204.docx) |
 | **LAB 5** | Automation & Services | [📄 Report PDF](./lab5/Lab05_Report.pdf) · [🐳 Docker Compose](./lab5/docker-compose.yml) · [🐍 Python Scripts](./lab5/automation/) |
+| **LAB 6** | Resilient Internet + Secure Microservices | [📄 Report PDF](./lab6/Lab06_Report.pdf) · [🐳 Docker Project](./lab6/docker-compose.yml) · [📖 Full Docs](./lab6/README_FULL.md) |
 
 ### 🌐 Projects
 
