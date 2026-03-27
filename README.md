@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Suphakit Fanfueai
+# 👋 Hi, I'm Suphakit fanfueai
 
-[![GitHub followers](https://img.shields.io/github/followers/ChillChill007x?style=social)](https://github.com/ChillChill007x)
+[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/ChillChill007x)
 [![Email](https://img.shields.io/badge/Email-Suphakit.f%40kkumail.com-blue)](mailto:Suphakit.f@kkumail.com)
 
 ## 📚 About Me
@@ -11,26 +11,32 @@ Computer Science/Engineering student passionate about technology and continuous 
 
 ## 🎓 Course Assignments
 
-### 📂 Lab Assignments
+### 📝 Assignments
 
-| Lab | Topic | Description | Files/Links |
-|-----|-------|-------------|-------------|
-| **LAB 1** | Network Fundamentals | Introduction to network concepts and basic configurations | [📁 View Lab1](./lab1) |
-| **LAB 2** | Network Protocols | Deep dive into communication protocols and packet analysis | [🎥 View Lab2](./lab2) |
-| **LAB 3** | Advanced Networking | Implementation of complex network architectures | [📄 LAB3.pdf](./lab3/LAB3.pdf) |
-| **LAB 4** | Network Security | Security protocols and vulnerability assessment | [🎥 View Lab4](./lab4) |
+| Assignment | Topic | Files |
+|------------|-------|-------|
+| **Assignment #1** | Computer Networks in Daily Life | [📄 PDF Report](./assignment1/Computer%20Networks%20that%20I%20know%20in%20my%20daily%20life.pdf) |
+| **Assignment #2** | Network Analysis | [📄 PDF Report](./assignment2/Assignment%232.pdf) |
+| **Assignment #3** | Network Implementation | [📄 PDF Report](./assignment3/Assignment%233_673380427-8.pdf) · [📦 Packet Tracer](./assignment3/week2_sample1.pkt) |
+| **Assignment #4** | Advanced Topics | [📄 PDF Report](./assignment4/Assignment%20%234%20673380427-8.pdf) |
 
-### 🌐 Special Projects
+### 🔬 Lab Assignments
 
-| Project | Date | Description | Links |
-|---------|------|-------------|-------|
-| **New Network** | 9/01/25 | Network infrastructure design and implementation | [🌐 View Project](./new-network) |
-| **Sprint Alpha + 1** | 22/02/25 | Agile sprint project with iterative development | [🚀 View Sprint](./sprint-alpha) |
-| **Project_Network** | - | Comprehensive network architecture project | [📊 View Project](./project-network) |
+| Lab | Topic | Files |
+|-----|-------|-------|
+| **LAB 1** | Network Fundamentals | [📄 Report PDF](./lab1/Lab1(Network)673380427-8.pdf) · [📦 Packet Tracer](./lab1/Lab_1_673380427-8.pkt) |
+| **LAB 2** | Network Protocols | [📄 Report DOCX](./lab2/Lab2%20Network.docx) · [📦 Packet Tracer](./lab2/lab2.pkt) |
+| **LAB 3** | Advanced Networking | [📄 LAB3.pdf](./lab3/LAB3.pdf) |
+| **LAB 4** | Network Security | [📄 Lab 4 Report](./lab4/Lab%204.docx) |
+| **LAB 5** | Automation & Services | [📄 Report PDF](./lab5/Lab05_Report.pdf) · [🐳 Docker Compose](./lab5/docker-compose.yml) · [🐍 Python Scripts](./lab5/automation/) |
 
-### 📝 Final Deliverable
+### 🌐 Projects
 
-- **Final Project + Artifacts** - Complete documentation and implementation artifacts for the course capstone project
+| Project | Description | Files |
+|---------|-------------|-------|
+| **New Network** | Network infrastructure design and implementation | [📄 New Network.pdf](./new-network/New%20Network.pdf) |
+| **Sprint Alpha + 1** | Agile sprint project with iterative development | [📄 Full Spec](./sprint-alpha/Term%20Project%20Full%20Spec.docx) |
+| **Project Network** | Comprehensive network architecture project | [📄 Full Specification](./project-network/Term%20Project%20Full%20Spec%20(1).docx) |
 
 ---
 
@@ -46,13 +52,13 @@ Computer Science/Engineering student passionate about technology and continuous 
 ## 📫 Contact
 
 - 📧 Email: [Suphakit.f@kkumail.com](mailto:Suphakit.f@kkumail.com)
-- 🔗 GitHub: [ChillChill007x](https://github.com/ChillChill007x)
+- 🔗 GitHub: [@yourusername](https://github.com/ChillChill007x)
 
 ---
 
 ## 📊 GitHub Stats
 
- ![Your GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ChillChill007x&show_icons=true&theme=default)
+![Your GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=ChillChill007x&show_icons=true&theme=default)
 
 ---
 
