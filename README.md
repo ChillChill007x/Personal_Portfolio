@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suphakit Fanfueai
 
-[![GitHub followers](https://img.shields.io/github/followers/yourusername?style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/ChillChill007x?style=social)](https://github.com/ChillChill007x)
 [![Email](https://img.shields.io/badge/Email-Suphakit.f%40kkumail.com-blue)](mailto:Suphakit.f@kkumail.com)
 
 ## 📚 About Me
