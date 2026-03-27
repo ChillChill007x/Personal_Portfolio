@@ -52,7 +52,7 @@ Computer Science/Engineering student passionate about technology and continuous 
 ## 📫 Contact
 
 - 📧 Email: [Suphakit.f@kkumail.com](mailto:Suphakit.f@kkumail.com)
-- 🔗 GitHub: [@yourusername](https://github.com/ChillChill007x)
+- 🔗 GitHub: [ChillChill007x](https://github.com/ChillChill007x)
 
 ---
 
