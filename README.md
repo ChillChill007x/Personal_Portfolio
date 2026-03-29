@@ -38,6 +38,7 @@ Computer Science/Engineering student passionate about technology and continuous 
 | **New Network** | Network infrastructure design and implementation | [📄 New Network.pdf](./new-network/New%20Network.pdf) |
 | **Sprint Alpha + 1** | Agile sprint project with iterative development | [📄 Full Spec](./sprint-alpha/Term%20Project%20Full%20Spec.docx) |
 | **Project Network** | Comprehensive network architecture project | [📄 Full Specification](./project-network/Term%20Project%20Full%20Spec%20(1).docx) |
+| **UCCN New Network** | Unified Campus Communication Network project | [🔗 GitHub Repository](https://github.com/ChillChill007x/UCCN_Newnetwork.git) · [📖 Details](./uccn-newnetwork/) |
 
 ---
 
