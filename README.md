@@ -5,7 +5,18 @@
 
 ## 📚 About Me
 
-Computer Science/Engineering student passionate about technology and continuous learning. This portfolio showcases my coursework and projects in **Intergalactic Communications** and network technologies.
+Computer Science/Engineering student at **Khon Kaen University** passionate about networking technologies and continuous learning. This portfolio showcases my coursework and projects in **Network Programming** and **Intergalactic Communications**.
+
+🎓 **Cisco Networking Academy Certified:**
+- CCNA: Introduction to Networks (Mar 2026)
+- Cisco Packet Tracer (Nov 2025)
+
+💼 **Specializations:**
+- Enterprise Network Architecture
+- Routing & Switching (OSPF, EIGRP)  
+- Network Security (ACL, Firewalling)
+- Microservices & Containerization (Docker)
+- Network Automation (Python)
 
 ---
 
@@ -48,6 +59,19 @@ Computer Science/Engineering student passionate about technology and continuous 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Networking](https://img.shields.io/badge/-Networking-0078D7?style=flat-square&logo=cisco&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
+---
+
+## 🎓 Certifications
+
+| Certification | Issued By | Date | Certificate |
+|--------------|-----------|------|-------------|
+| **CCNA: Introduction to Networks** | Cisco Networking Academy | Mar 2026 | [📄 View](./certifications/CCNA_Introduction_to_Networks_Certificate.pdf) |
+| **Getting Started with Cisco Packet Tracer** | Cisco Networking Academy | Nov 2025 | [📄 View](./certifications/Cisco_Packet_Tracer_Certificate.pdf) |
+
+**[📖 View All Certifications](./certifications/)** - Detailed information about each certification
 
 ---
 
